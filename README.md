@@ -78,6 +78,8 @@
 <ul>
   <li>Red Hat Certified Engineer (RHEL 7 and RHEL 8, Ansible 2.8) <img src="rhca_icon.png" alt="RHCA Icon" width="20" height="16"> <img src="ansible_icon.png" alt="Ansible Icon" width="30" height="18"></li>
   <li>Red Hat Certified Administrator (RHEL 7) <img src="rhca_icon.png" alt="RHCA Icon" width="20" height="16"></li>
+  <li>Red Hat Certified OpenShift Administrator v4.10 (RHEL 8) <img src="rhca_icon.png" alt="RHCA Icon" width="20" height="16"></li>
+  <li>AWS Certified Cloud Practitioner <img src="aws_icon.png" alt="AWS Icon" width="19" height="16"></li>
 </ul>
 
 <!--
