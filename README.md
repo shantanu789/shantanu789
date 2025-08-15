@@ -1,4 +1,4 @@
-![logo](https://github.com/shantanu789/shantanu789/blob/main/Dark%20colors%20DevOps%20tools%20with%20Name.jpg)
+![logo](https://github.com/shantanu789/shantanu789/blob/main/Dark%20colors%20DevOps%20tools%20with%20Name%20(1).png)
 ### Hi there 👋 , I'm Shantanu. 
 <!-- MyName -->
 <h1>Shantanu Unde</h1>
@@ -6,22 +6,22 @@
 <!-- Contact Information -->
 <ul>
   <!-- <li>Email: <a href="mailto:MyEmail@Address">MyEmail@Address</a></li> -->
-  <li><a href="www.linkedin.com/in/shantanu-u-8b0117146"><img src="linkedin_icon.png" alt="LinkedIn Icon" width="24" height="24"></a> <a href="www.linkedin.com/in/shantanu-u-8b0117146">LinkedIn Profile</a></li>
+  <li><a href="www.linkedin.com/in/shantanu-unde"><img src="linkedin_icon.png" alt="LinkedIn Icon" width="24" height="24"></a> <a href="www.linkedin.com/in/shantanu-unde">LinkedIn Profile</a></li>
   <li><a href="https://github.com/shantanu789/shantanu789"><img src="github_icon.png" alt="GitHub Icon" width="24" height="24"></a> <a href="[GitHub Profile URL]">GitHub Profile</a></li>
 </ul>
 
 <!-- Objective -->
 <h2>Objective</h2>
 <p>
-  At a Senior Analyst position working as a DevOps Engineer with 4.6 years of hands-on experience in Configuration Management, Build & Release Management, and CI/CD automation. Seeking an opportunity at a prestigious company to leverage my expertise in managing Kubernetes environments, containerization, and infrastructure security.
+  As a DevOps Engineer with 6.6 years of hands-on experience in Configuration Management, Build & Release Management, and CI/CD automation. Seeking an opportunity at a prestigious company to leverage my expertise in managing Kubernetes environments, containerization, and infrastructure security.
 </p>
 
 <!-- Summary of Qualifications -->
 <h2>Summary of Qualifications</h2>
 <ul>
-  <li>Proficient in Azure DevOps for CI/CD automation, with extensive experience in Azure Pipelines & Releases.</li>
+  <li>Proficient in Jenkins for CI/CD automation, with extensive experience in Jenkins Pipelines & Releases.</li>
   <li>Skilled in working with diverse tech stacks within Microservices architecture.</li>
-  <li>Strong knowledge of AWS services including EC2, ECS, S3, ACM, VPC, RDS, Elastic Cache, DocumentDB, and DynamoDB.</li>
+  <li>Strong knowledge of AWS services including EC2, ECS, S3, VPC, RDS, and Cloudfront, EKS.</li>
   <li>Expertise in Docker containerization and Kubernetes management.</li>
   <li>Proficient in Helm charts for automated release deployment.</li>
   <li>Experienced with monitoring tools such as Prometheus and Grafana.</li>
@@ -48,7 +48,7 @@
 <h2>Experience</h2>
 
 <!-- Senior Analyst | DevOps Engineer | NetEnrich Technologies Pvt Ltd -->
-<h3>Senior Analyst | DevOps Engineer | NetEnrich Technologies Pvt Ltd, Hyderabad | February 2019 - Present</h3>
+<h3>Senior Analyst | DevOps Engineer | SRE | NetEnrich Technologies Pvt Ltd, Hyderabad | February 2019 - Present</h3>
 
 <!-- Project Experience: Resolution Intelligence Cloud -->
 <h4>Project Experience: Resolution Intelligence Cloud (Aug 2023 - Present)</h4>
