@@ -7,7 +7,7 @@
 <ul>
   <!-- <li>Email: <a href="mailto:MyEmail@Address">MyEmail@Address</a></li> -->
   <li><a href="www.linkedin.com/in/shantanu-unde"><img src="linkedin_icon.png" alt="LinkedIn Icon" width="24" height="24"></a> <a href="www.linkedin.com/in/shantanu-unde">LinkedIn Profile</a></li>
-  <li><a href="https://github.com/shantanu789"><img src="github_icon.png" alt="GitHub Icon" width="24" height="24"></a> <a href="[https://github.com/shantanu789]">GitHub Profile</a></li>
+  <li><a href="www.github.com/shantanu789"><img src="github_icon.png" alt="GitHub Icon" width="24" height="24"></a> <a href="www.github.com/shantanu789">GitHub Profile</a></li>
 </ul>
 
 <!-- Objective -->
