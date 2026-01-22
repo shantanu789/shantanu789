@@ -48,10 +48,10 @@
 <h2>Experience</h2>
 
 <!-- Senior Analyst | DevOps Engineer | NetEnrich Technologies Pvt Ltd -->
-<h3>Senior Analyst | DevOps Engineer | SRE | NetEnrich Technologies Pvt Ltd, Hyderabad | February 2019 - Present</h3>
+<h3>Senior Analyst | DevOps Engineer | SRE | NetEnrich Technologies Pvt Ltd, Hyderabad | February 2019 - January 2026</h3>
 
 <!-- Project Experience: Resolution Intelligence Cloud -->
-<h4>Project Experience: Resolution Intelligence Cloud (Aug 2023 - Present)</h4>
+<h4>Project Experience: Resolution Intelligence Cloud (Aug 2023 - Jan 2026)</h4>
 <ul>
   <li>Domain: Security and Digital Operations (SecOps and DigitalOps)</li>
   <li>Role: Senior Analyst | DevOps Engineer</li>
