@@ -13,7 +13,7 @@
 <!-- Objective -->
 <h2>Objective</h2>
 <p>
-  As a DevOps Engineer with 6.6 years of hands-on experience in Configuration Management, Build & Release Management, and CI/CD automation. Seeking an opportunity at a prestigious company to leverage my expertise in managing Kubernetes environments, containerization, and infrastructure security.
+  As a DevOps Engineer with 6.11 years of hands-on experience in Configuration Management, Build & Release Management, and CI/CD automation. Seeking an opportunity at a prestigious company to leverage my expertise in managing Kubernetes environments, containerization, and infrastructure security.
 </p>
 
 <!-- Summary of Qualifications -->
